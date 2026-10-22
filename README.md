@@ -19,15 +19,20 @@
 
 india-cpi-inflation-analysis/
 │
+
 ├── .gitignore               # Excludes system files (like Mac .DS_Store) or heavy temp files
+
 ├── README.md                # Main project documentation and overview
 │
+
 ├── data/                    # Dedicated folder for data files
 │   └── CPI Inflation Project 1.xlsx
 │
+
 ├── docs/                    # Detailed documentation or methodology notes
 │   └── methodology.md
 │
+
 └── assets/                  # Unzipped image assets replacing the screenshots.zip
     └── images/
 
@@ -41,9 +46,13 @@ india-cpi-inflation-analysis/
 - *Averages and percentage change* — comparing index movements
 - *Correlation analysis* — checking how selected series move together
 - *Data visualization and insight writing* — communicating findings
--*Interactive Slicers*: Excel slicers enable users to dynamically filter CPI data by year, category, and other dimensions for quick and interactive analysis.
 
 
+
+-**Slicer**: Excel slicers enable users to dynamically filter CPI data by year, category, and other dimensions for quick and interactive analysis.
+
+## Interactive Slicer
+    
     <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
 
 
@@ -74,6 +83,7 @@ india-cpi-inflation-analysis/
 - Rural index values are higher than Urban values in each year shown.
 
  The General Index trends upward over the period, with a clear increase across 2020 and subsequent years. The index-level change is not the same as an annual inflation rate.
+
 
 ###  Month-wise Food Category Inflation
 
@@ -219,9 +229,11 @@ The project strengthened practical skills in Excel-based data preparation, Pivot
 
 **Divya Prakash Maurya**
 Data Analyst
+
 Data Analytics Project — Consumer Price Index (CPI) Inflation Analysis
 
 Linkedin- www.linkedin.com/in/divya-prakash-maurya-9183313a7
+
 Email ID - divyaprakashoffice@gmail.com
-GitHub Id - https://github.com/divyaprakash012
+
 If you find this project useful, feel free to  the repository.# CPI-INFLATION
