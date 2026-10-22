@@ -26,14 +26,17 @@ india-cpi-inflation-analysis/
 │
 
 ├── data/                    # Dedicated folder for data files
+
 │   └── CPI Inflation Project 1.xlsx
 │
 
 ├── docs/                    # Detailed documentation or methodology notes
+
 │   └── methodology.md
 │
 
 └── assets/                  # Unzipped image assets replacing the screenshots.zip
+ 
     └── images/
 
 
