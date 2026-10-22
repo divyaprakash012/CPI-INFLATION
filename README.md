@@ -36,8 +36,7 @@ india-cpi-inflation-analysis/
 │
 
 └── assets/                  # Unzipped image assets replacing the screenshots.zip
- 
-    └── images/
+ └── images/
 
 
 ##  Tools & Skills Used
