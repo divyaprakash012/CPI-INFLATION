@@ -17,6 +17,8 @@
 - Examine the relationship between Fuel & Light and transport, education, food and beverages, household goods and services, non-alcoholic beverages, and cereals.
 - Present findings in a clear, business-friendly format.
 
+## Repository Structure 
+
 india-cpi-inflation-analysis/
 │
 
