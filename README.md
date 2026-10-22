@@ -28,14 +28,15 @@
 - *Data visualization and insight writing* — communicating findings
 -*Interactive Slicers*: Excel slicers enable users to dynamically filter CPI data by year, category, and other dimensions for quick and interactive analysis.
 
-   <img width="308" height="177" alt="image" src="https://github.com/user-attachments/assets/33b830cc-5ec8-4ac6-a267-14460021ace5" />
+   <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
 
 
 ### Broader Category-wise Inflation
 
  The distribution of records across broader CPI categories in the reshaped dataset.
 
-<img width="523" height="343" alt="image" src="https://github.com/user-attachments/assets/6de19ed9-3384-4d1c-b7ec-f9d05ace19ba" />
+<img width="585" height="432" alt="image" src="https://github.com/user-attachments/assets/3561e22f-8abb-4eb5-822b-ed2da81fc5cd" />
+
 
 - Food has the largest record count: *4,464 of 10,044 records (44.44%)*.
 - Luxury accounts for *14.81%, Clothing **11.11%, and Housing **7.41%*.
@@ -47,7 +48,7 @@
 
  Average General Index values for Rural, Urban, and Rural+Urban areas from 2016 to 2023.
 
-<img width="657" height="423" alt="image" src="https://github.com/user-attachments/assets/55785345-e2fd-4d2c-a17f-4cc98ff15371" />
+<img width="720" height="477" alt="image" src="https://github.com/user-attachments/assets/4b896c92-5623-4376-bbd7-ac2fb368d9a1" />
 
 
 - The combined Rural+Urban average rises from approximately *129.10 in 2016* to *177.57 in 2023—an increase of about **37.5% in the index level*.
@@ -60,7 +61,7 @@
 
  Monthly average index values for vegetables, fruits, pulses and products, and milk and products in 2022 and part of 2023.
 
-  <img width="652" height="317" alt="image" src="https://github.com/user-attachments/assets/23db02de-034e-44dc-a9ec-503b1372d1b7" />
+  <img width="671" height="347" alt="image" src="https://github.com/user-attachments/assets/fdb2f376-eb02-4417-a507-1daff0926f2d" />
 
 
 - In 2022, the vegetable index reaches its highest displayed monthly value in *October (204.37), then falls to **162.93 in December*.
@@ -75,7 +76,8 @@
 
  Average food-category index values for 2022 and 2023, broken out by Rural, Rural+Urban, and Urban areas.
 
-  <img width="640" height="417" alt="image" src="https://github.com/user-attachments/assets/c9db01e9-c5dd-4990-9102-8982a155028c" />
+<img width="713" height="376" alt="image" src="https://github.com/user-attachments/assets/50687026-f1d7-4cec-8a71-5c4e7680ed13" />
+
 
 
 - *Spices* show a strong increase from 2022 to 2023 across all three area groups—approximately *11.5% to 12.5%*.
@@ -92,7 +94,8 @@
 
 Annual average index values for Food & Beverages, Health, and Household Goods & Services from 2013 to 2023, with 2020 as the COVID-era comparison point.
 
- <img width="685" height="383" alt="image" src="https://github.com/user-attachments/assets/178443fc-47a8-407b-bd20-37eecf4137c0" />
+ <img width="737" height="437" alt="image" src="https://github.com/user-attachments/assets/dbb4ebc8-d5c0-471f-b026-68d94e11306d" />
+
 
 - From 2019 to 2020, Food & Beverages rises from *144.88 to 156.14*.
 - Health rises from *146.92 to 153.24* over the same period.
@@ -105,7 +108,7 @@ Annual average index values for Food & Beverages, Health, and Household Goods & 
 
  Monthly and annual average index values for Fuel & Light and Transport & Communication, with additional month-to-month comparison fields.
 
- <img width="606" height="375" alt="image" src="https://github.com/user-attachments/assets/64692a57-3162-4ca6-8bc8-b3cd0fad8f7a" />
+ <img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/d13f2765-3e17-4c8f-bb32-1db058fbfddf" />
 
 
 - The 2020 average shown for Fuel & Light is *143.39, compared with **135.22* for Transport & Communication.
@@ -119,7 +122,7 @@ The summary indicates a positive relationship between the selected fuel and tran
 
  Average index values and month-to-month changes for Fuel & Light and Food & Beverages.
 
-  <img width="615" height="387" alt="image" src="https://github.com/user-attachments/assets/21818741-535b-4c1d-9d5d-18f7f3d29414" />
+  <img width="661" height="416" alt="image" src="https://github.com/user-attachments/assets/97c64d75-dcfa-4f6d-a2e0-f9cec64e41ff" />
 
 
 - The 2020 average for Food & Beverages (*156.14) is higher than Fuel & Light (143.39*).
@@ -133,7 +136,7 @@ The summary indicates a positive relationship between the selected fuel and tran
 
  Fuel & Light compared with Non-alcoholic Beverages.
 
-  <img width="598" height="336" alt="image" src="https://github.com/user-attachments/assets/ea5b17b0-7091-4ffc-9bd1-25e7bf1a8b81" />
+<img width="670" height="382" alt="image" src="https://github.com/user-attachments/assets/a8891aa4-bde8-46cb-b72c-ccb4684458f9" />
 
 
 - The 2020 average shown is *143.39* for Fuel & Light and *139.95* for Non-alcoholic Beverages.
@@ -145,7 +148,8 @@ The summary indicates a positive relationship between the selected fuel and tran
 
  Fuel & Light compared with Cereals and Products.
 
- <img width="632" height="355" alt="image" src="https://github.com/user-attachments/assets/571eb1c3-e8b8-42b2-93f4-25c2f0f539ce" />
+ <img width="666" height="373" alt="image" src="https://github.com/user-attachments/assets/fd0ee73e-361e-462b-a610-b1679d01b6ba" />
+
 
 - The 2020 average is *143.39* for Fuel & Light and *147.78* for Cereals and Products.
 - The workbook reports a correlation of approximately *−0.239*.
@@ -164,7 +168,8 @@ The summary indicates a positive relationship between the selected fuel and tran
 | Fuel vs Cereals & Products | −0.239 | Weak negative relationship |
 
 
-<img width="551" height="256" alt="image" src="https://github.com/user-attachments/assets/87a86228-5775-4321-a840-c877a27f02c3" />
+<img width="691" height="332" alt="image" src="https://github.com/user-attachments/assets/621cad1b-9091-439f-a5aa-49e2400e05be" />
+
 
 
  Fuel has the strongest positive correlation with Non-alcoholic Beverages and Transport among the four comparisons in this summary. The correlations with Food & Beverages and Cereals & Products are weakly negative. Correlation values depend on the exact series and calculation used.
