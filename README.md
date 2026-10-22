@@ -17,6 +17,21 @@
 - Examine the relationship between Fuel & Light and transport, education, food and beverages, household goods and services, non-alcoholic beverages, and cereals.
 - Present findings in a clear, business-friendly format.
 
+india-cpi-inflation-analysis/
+│
+├── .gitignore               # Excludes system files (like Mac .DS_Store) or heavy temp files
+├── README.md                # Main project documentation and overview
+│
+├── data/                    # Dedicated folder for data files
+│   └── CPI Inflation Project 1.xlsx
+│
+├── docs/                    # Detailed documentation or methodology notes
+│   └── methodology.md
+│
+└── assets/                  # Unzipped image assets replacing the screenshots.zip
+    └── images/
+
+
 ##  Tools & Skills Used
 
 - *Microsoft Excel* — data analysis and reporting
@@ -28,12 +43,14 @@
 - *Data visualization and insight writing* — communicating findings
 -*Interactive Slicers*: Excel slicers enable users to dynamically filter CPI data by year, category, and other dimensions for quick and interactive analysis.
 
-   <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
+
+    <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
 
 
 ### Broader Category-wise Inflation
 
  The distribution of records across broader CPI categories in the reshaped dataset.
+
 
 <img width="585" height="432" alt="image" src="https://github.com/user-attachments/assets/3561e22f-8abb-4eb5-822b-ed2da81fc5cd" />
 
@@ -48,6 +65,7 @@
 
  Average General Index values for Rural, Urban, and Rural+Urban areas from 2016 to 2023.
 
+
 <img width="720" height="477" alt="image" src="https://github.com/user-attachments/assets/4b896c92-5623-4376-bbd7-ac2fb368d9a1" />
 
 
@@ -61,6 +79,7 @@
 
  Monthly average index values for vegetables, fruits, pulses and products, and milk and products in 2022 and part of 2023.
 
+ 
   <img width="671" height="347" alt="image" src="https://github.com/user-attachments/assets/fdb2f376-eb02-4417-a507-1daff0926f2d" />
 
 
@@ -75,6 +94,7 @@
 ### Food Category-wise Comparison
 
  Average food-category index values for 2022 and 2023, broken out by Rural, Rural+Urban, and Urban areas.
+
 
 <img width="713" height="376" alt="image" src="https://github.com/user-attachments/assets/50687026-f1d7-4cec-8a71-5c4e7680ed13" />
 
@@ -94,6 +114,7 @@
 
 Annual average index values for Food & Beverages, Health, and Household Goods & Services from 2013 to 2023, with 2020 as the COVID-era comparison point.
 
+
  <img width="737" height="437" alt="image" src="https://github.com/user-attachments/assets/dbb4ebc8-d5c0-471f-b026-68d94e11306d" />
 
 
@@ -107,6 +128,7 @@ Annual average index values for Food & Beverages, Health, and Household Goods & 
 ### Fuel & Light vs Transport & Communication
 
  Monthly and annual average index values for Fuel & Light and Transport & Communication, with additional month-to-month comparison fields.
+
 
  <img width="648" height="400" alt="image" src="https://github.com/user-attachments/assets/d13f2765-3e17-4c8f-bb32-1db058fbfddf" />
 
@@ -122,6 +144,7 @@ The summary indicates a positive relationship between the selected fuel and tran
 
  Average index values and month-to-month changes for Fuel & Light and Food & Beverages.
 
+ 
   <img width="661" height="416" alt="image" src="https://github.com/user-attachments/assets/97c64d75-dcfa-4f6d-a2e0-f9cec64e41ff" />
 
 
@@ -147,6 +170,7 @@ The summary indicates a positive relationship between the selected fuel and tran
 ### Fuel & Light vs Cereals and Products
 
  Fuel & Light compared with Cereals and Products.
+
 
  <img width="666" height="373" alt="image" src="https://github.com/user-attachments/assets/fd0ee73e-361e-462b-a610-b1679d01b6ba" />
 
