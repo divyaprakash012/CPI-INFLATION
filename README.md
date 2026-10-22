@@ -56,7 +56,7 @@ india-cpi-inflation-analysis/
 
 ## Interactive Slicer
     
-    <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
+  <img width="293" height="165" alt="image" src="https://github.com/user-attachments/assets/728f40e6-efdd-468a-919a-b7eb7eb3d249" />
 
 
 ### Broader Category-wise Inflation
